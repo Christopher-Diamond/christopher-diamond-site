@@ -2,13 +2,14 @@
 layout: page
 title: Translating Vidyāpati
 description: English translations of Vidyāpati's Maithili songs (Padāvalī) and his Avahaṭṭha chronicle, the Kīrttilatā.
+img: assets/img/projects/vidyapati-ms.jpg
 importance: 1
 related_publications: true
 ---
 
 Vidyāpati (c. 1370–1450) was a poet and scholar at the royal court of Mithila, in present-day northern Bihar. He wrote in three languages: Sanskrit, Avahaṭṭha (a late form of Apabhraṃśa), and Maithili, the vernacular of Mithila. This project translates two of his works into English.
 
-<!-- Optional manuscript images: add files to assets/img/ and uncomment.
+{% comment %} Optional manuscript images: add files to assets/img/ and delete the comment tags.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/padavali.jpg" title="Padāvalī manuscript" class="img-fluid rounded z-depth-1" %}
@@ -18,7 +19,7 @@ Vidyāpati (c. 1370–1450) was a poet and scholar at the royal court of Mithila
     </div>
 </div>
 <div class="caption">Caption: manuscript, collection, date.</div>
--->
+{% endcomment %}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -2,6 +2,7 @@
 layout: page
 title: Singing the Manuscript
 description: A multilingual digital infrastructure for South Asian text and performance traditions (ANU APIP, 2026).
+img: assets/img/projects/chaitanya-sankirtan.jpg
 importance: 2
 ---
 
