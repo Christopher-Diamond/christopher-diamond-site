@@ -1,189 +1,240 @@
+# Curriculum vitae of Christopher L. Diamond, rendered by al-folio (layout: cv, cv_format: rendercv).
+# Generated from the master CV in the Obsidian vault (00-Vault-Hub/CV/CV.md); website-only exclusions:
+# Language Link Project, the 2027 curriculum reform entry, and work in review or in preparation.
+
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+  name: Christopher L. Diamond
+  email: christopher.diamond@anu.edu.au
+  location: Canberra, Australia
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    - company: School of Culture, History and Language, College of Asia & the Pacific, The Australian National University
+      position: Senior Lecturer in Hindi & South Asian Studies
+      start_date: 2025
+      end_date: present
+    - company: School of Culture, History and Language, College of Asia & the Pacific, The Australian National University
+      position: Lecturer in Hindi & South Asian Studies
+      start_date: 2020
+      end_date: 2024
+    - company: University of Puget Sound (USA)
+      position: Lecturer in Hindi
+      start_date: 2019
+      end_date: 2019
+    - company: South Asia Summer Language Institute (SASLI), University of Wisconsin-Madison (USA)
+      position: Faculty Assistant
+      start_date: 2019
+      end_date: 2019
+    - company: Department of Asian Languages and Literature, University of Washington-Seattle (USA)
+      position: Teaching Associate
+      start_date: 2018
+      end_date: 2019
+    - company: Department of Bengali, Jadavpur University (India)
+      position: Fulbright-Nehru Scholar
+      start_date: 2017
+      end_date: 2018
+    - company: Department of Asian Languages & Literature, University of Washington-Seattle (USA)
+      position: Graduate Teaching Assistant
+      start_date: 2015
+      end_date: 2018
+    Education:
+    - institution: University of Washington, Seattle, USA
+      area: South Asian Languages and Literature
+      degree: PhD
+      date: 2019
+    - institution: University of Washington, Seattle, USA
+      area: South Asian Languages and Literature
+      degree: MA
+      start_date: 2012
+      end_date: 2015
+    - institution: School of Oriental and African Studies (SOAS), London, U.K.
+      area: Hindi & Music
+      degree: BA (Hons)
+      start_date: 2007
+      end_date: 2011
+    Research Languages:
+    - label: Modern spoken and written
+      details: Hindi, Urdu, Bengali, Persian, French
+    - label: Medieval and classical research languages
+      details: Maithili, Sanskrit, Braj Bhasha, Avadhi, Sant Bhasha, Middle Bengali, Apabhraṃśa, Prakrit
+    Journal Articles:
+    - bullet: '**2026** — "The ''Indescribable Country'': Locating Mithila between Bengal and the Hindi Heartland in Raghunandana Das''s *Mithilānāṭaka*." *Asian Ethnology* 85, no. 1 (2026). Special issue, "Critical Contours of Mithila Studies," ed. Davis, Diamond, and Prakash. Nagoya: Nanzan University. [Open access]'
+    - bullet: '**2026** — "Guest Editors'' Introduction: Defining and Contextualizing Mithila Studies." *Asian Ethnology* 85, no. 1 (2026). Special issue, "Critical Contours of Mithila Studies," ed. Davis, Diamond, and Prakash. Nagoya: Nanzan University. *Co-authored with Pranav Prakash and Coralynn V. Davis.* [Open access]'
+    - bullet: '**2019** — "The Strange Afterlife of Vidyāpati Ṭhākura (c. 1350–1450 CE): Anthological Manuscripts, Linguistic Confusion, and Religious Appropriation." *Manuscript Studies* 4, no. 1 (2019): 72–92. Special issue, ed. Arthur Dudney and Neeraja Poddar. Philadelphia: University of Pennsylvania Press. [Open access]'
+    Edited Special Issue:
+    - bullet: '**2026** — *Critical Contours of Mithila Studies*. Special issue of *Asian Ethnology* 85, no. 1. Guest co-editor with Coralynn V. Davis (Bucknell University) and Pranav Prakash (University of Oxford). Nagoya: Nanzan University.'
+    Encyclopedia Articles:
+    - bullet: '**2025** — "Vidyāpati." *Dictionnaire Encyclopédique des Littératures de l''Inde* (DELI). Paris.'
+    - bullet: '**2025** — "Maithili, Langue et Littérature." *Dictionnaire Encyclopédique des Littératures de l''Inde* (DELI). Paris.'
+    Public Scholarship:
+    - bullet: '**2026** — "Whose Ramayana? A Sacred Story Remade ''for Everyone''." *ABC Religion & Ethics*, Australian Broadcasting Corporation, November 12, 2026. [link](https://www.abc.net.au/religion/christopher-diamond-ramayana-sacred-story-remade-for-everyone/107377736)'
+    - bullet: '**2023** — "READ Workbench (Part 2): Digital Repatriation, Pedagogy and Transnational Heritage." *The Digital Orientalist* (blog), May 23, 2023. [link](https://digitalorientalist.com/2023/05/23/read-workbench-part-2-digital-repatriation-pedagogy-and-transnational-heritage/)'
+    - bullet: '**2023** — "Podcasting as Digital Storytelling in Research and Outreach." *The Digital Orientalist* (blog), March 17, 2023. [link](https://digitalorientalist.com/2023/03/17/podcasting-as-digital-storytelling-in-research-and-outreach/)'
+    - bullet: '**2022** — "READ Workbench (Part 1): An Introduction to a Text and Image Annotation Ecosystem." *The Digital Orientalist* (blog), October 21, 2022. [link](https://digitalorientalist.com/2022/10/21/read-workbench-part-1-an-introduction-to-a-text-image-annotation-ecosystem/)'
+    - bullet: '**2021** — Diamond, C. and Brown, T. "6 unis had Hindi programs. Soon there could be only 1, and that''s not in Australia''s best interests." *The Conversation*. [link](https://theconversation.com/6-unis-had-hindi-programs-soon-there-could-be-only-1-and-thats-not-in-australias-best-interests-151096)'
+    Book Reviews:
+    - bullet: '**2020** — d''Hubert, Thibaut. *In the Shade of the Golden Palace: Ālāol and Middle Bengali Poetics in Arakan*. New York: Oxford University Press, 2018. *The Journal of Religion*.'
+    - bullet: '**2019** — Salomon, Carol, Keith E. Cantú, Sāimana Jākāriyā, and Lālana Śāha. *City of Mirrors: Songs of Lālan Sā̃i*. New York: Oxford University Press, 2017. *International Journal of Hindu Studies*.'
+    - bullet: '**2017** — Brockington, John, Mary Brockington, and Mandakranta Bose, eds. *The Other Rāmāyaṇa Women: Regional Rejection and Response*. Routledge Hindu Studies Series. London and New York: Routledge Taylor & Francis Group, 2016. *Journal of the Royal Asiatic Society* 27, no. 4 (2017): 685–86.'
+    Podcast:
+    - bullet: '**The ANUBhasha Podcast: Digital Repatriation in South Asia.**'
+    - bullet: '**31/03/2023** — "Librarians are our Heroes!" Guest: Nicole Merkel-Hilf. Audio, 37m42s. [link](https://www.buzzsprout.com/2118914/episodes/12475555)'
+    - bullet: '**24/03/2023** — "Digital Preservation for a Submerging Valley — Part 2." Guests: Jason Neelis, Murtaza Taj, Atiq Hashmi. Audio, 36m59s. [link](https://www.buzzsprout.com/2118914/episodes/12468430)'
+    - bullet: '**17/03/2023** — "Digital Preservation for a Submerging Valley — Part 1." Guests: Jason Neelis, Murtaza Taj, Atiq Hashmi. Audio, 39m07s. [link](https://www.buzzsprout.com/2118914/episodes/12413469)'
+    - bullet: '**10/03/2023** — "Humble Researchers, Open Homes." Guest: Ronit Ricci. Audio, 56m27s. [link](https://www.buzzsprout.com/2118914/episodes/12344489)'
+    - bullet: '**03/03/2023** — "''Trees and Rocks'' in a Global Digital World." Guests: Joe Marino, Mike Skinner. Audio, 56m27s. [link](https://www.buzzsprout.com/2118914/episodes/12295204)'
+    - bullet: '**24/02/2023** — "Access, Privilege, and Purpose." Guest: Adrian Plau. Audio, 58m11s. [link](https://www.buzzsprout.com/2118914/episodes/12247665)'
+    - bullet: '**20/02/2023** — "Introduction: Digital Repatriation in South Asia." Audio, 3m39s. [link](https://www.buzzsprout.com/2118914/episodes/12216533)'
+    Research Projects and Networks:
+    - bullet: '**2022–present** — **The Mithila Studies Network**. [www.mithilastudies.org](http://www.mithilastudies.org). *Co-founded with Prof. Coralynn V. Davis (Bucknell University) and Dr. Pranav Prakash (University of Oxford).*'
+    - bullet: '**2021–present** — **ANUBhasha: a South Asian Languages & Literature Collective at ANU**. [www.anubhasha.org](http://www.anubhasha.org). *Co-founded with Dr. Stephanie Majcher (CHL-ANU).*'
+    - bullet: '**2022** — **"Textual Digitisation and Repatriation in South Asia."** Asia-Pacific Innovation Project (APIP) Basic & Applied Research Grant (CHL-ANU). Chief Investigator, *with Dr. Stephanie Majcher*. [link](https://anubhasha.org/engagement/textual-digitization-and-repatriation-in-south-asia-apip-2022/)'
+    Grants, Awards, and Fellowships:
+    - bullet: '**2026** — Asia Pacific Innovation Program (APIP) Seed Funding (ANU College of Asia and the Pacific), *Singing the Manuscript: A Multilingual Digital Infrastructure for South Asian Text and Performance Traditions*. Co-Chief Investigator, *with Dr. Sabeena Shaikh*'
+    - bullet: '**2022** — Asia-Pacific Innovation Project (APIP) Basic & Applied Research Grant (ANU)'
+    - bullet: '**2021** — CHL Flagship — ''Identity & Ways of Knowing'''
+    - bullet: '**2021** — Nomination: Award for Teaching Excellence'
+    - bullet: '**2019** — Dean''s Graduate Medal in the Humanities'
+    - bullet: '**2019** — Maurice D. and Lois B. Schwartz Dissertation Writing Fellowship'
+    - bullet: '**2019** — Antoinette Wills Endowed Scholarship'
+    - bullet: '**2019** — Alvord Dissertation Fellowship in the Humanities (UW)'
+    - bullet: '**2018** — Turrell V. Wylie Memorial Scholarship (AL&L UW)'
+    - bullet: '**2018** — Department of Asian Languages and Literature Travel Grant (UW)'
+    - bullet: '**2017–2018** — Fulbright-Nehru Student Research Fellowship'
+    - bullet: '**2017–2018** — American Institute of Indian Studies Junior Fellowship [declined]'
+    - bullet: '**2017** — American Institute of Bangladesh Studies Travel Grant'
+    - bullet: '**2017** — JSIS South Asia Studies Student Fund Travel Award (UW)'
+    - bullet: '**2016** — AIIS Summer Language Fellowship (Sanskrit)'
+    - bullet: '**2016** — Frank F. Conlon South Asia Fellowship [declined] (UW)'
+    - bullet: '**2016** — FLAS Fellowship for Advanced Persian'
+    - bullet: '**2015** — Scott Swaner Memorial Book Award for Scholarship (AL&L UW)'
+    - bullet: '**2015** — FLAS Fellowship for Advanced Persian'
+    - bullet: '**2014** — FLAS Fellowship for Elementary Persian'
+    - bullet: '**2013–2014** — FLAS Fellowship for Advanced Bengali'
+    - bullet: '**2013** — FLAS Fellowship for Advanced Bengali'
+    - bullet: '**2012–2013** — FLAS Fellowship for Intermediate Bengali'
+    - bullet: '**2012** — FLAS Fellowship for Elementary Bengali'
+    Programs Convened (ANU):
+    - bullet: '**2022–present** — Hindi-Urdu Language Program'
+    - bullet: '**2023–present** — South Asian Studies Major'
+    - bullet: '**2023–present** — Tibetan Language Minor *(program convenorship; teaching delivered by program staff)*'
+    Courses Taught (ANU):
+    - bullet: '**2020, 2021, 2022, 2023, 2024, 2025** — HIND1100 (Hindi 1)'
+    - bullet: '**2020, 2021, 2022, 2023, 2024, 2025** — HIND1200 (Hindi 2)'
+    - bullet: '**2021, 2022, 2023, 2024, 2025, 2026** — HIND2300 (Hindi 3)'
+    - bullet: '**2021, 2022, 2023, 2024, 2025, 2026** — HIND2400 (Hindi 4)'
+    - bullet: '**2023, 2025, 2026** — HIND3500 (Hindi 5)'
+    - bullet: '**2023, 2024** — HIND3600 (Hindi 6)'
+    - bullet: '**2023, 2024, 2025** — ASIA3108 (Research Topics in Asian & Pacific Languages [L])'
+    - bullet: '**2022, 2024** — ASIA2275 (The Pleasures and Powers of Stories in South & Southeast Asia)'
+    Curriculum Development:
+    - bullet: '**2025–present** — Hindi-Urdu language textbook in development, taught from in current courses'
+    Earlier Teaching:
+    - bullet: '**University of Puget Sound (Instructor of Record)**'
+    - bullet: '**2019** — Elementary Hindi'
+    - bullet: '**South Asian Summer Language Institute, University of Wisconsin-Madison (Faculty Assistant)**'
+    - bullet: '**2016** — Elementary Hindi'
+    - bullet: '**University of Washington (Teaching Associate [Instructor of Record])**'
+    - bullet: '**2019** — Modern South Asian Literature'
+    - bullet: '**2018** — Literature of Ancient and Medieval India'
+    - bullet: '**University of Washington (Teaching Assistant)**'
+    - bullet: '**2017** — The Ramayana in Comparative Perspective'
+    - bullet: '**2017** — Modern South Asian Literature'
+    - bullet: '**2016, 2014** — Fairies, Genies, and Monsters: The Romance in India'
+    - bullet: '**2016** — Survey of Modern Hindi/Urdu Literature: Drama'
+    - bullet: '**2015** — Elementary Hindi'
+    - bullet: '**2015** — Perceptions of the Feminine Divine in Hinduism'
+    - bullet: '**2015** — Hindu-Muslim Literary Encounters'
+    HDR Supervision:
+    - bullet: '**2023–present** — Supervisory panel member, PhD in Anthropology of Religion, CHL'
+    - bullet: '**2023–present** — Supervisory panel member, PhD in Linguistics, CHL'
+    - bullet: '**2022–present** — Supervisory panel member, PhD in Anthropology, CHL'
+    Invited Lectures and Workshops:
+    - bullet: '**2022** — "Masculine Ethics, Geography, and Maithil Identity in the Works of Vidyāpati." Life in Mithila: History, Society and Politics in a Region, Mithila Study Group, Online Seminar'
+    - bullet: '**2021** — Language and Reading Session Leader — Maithili & Vidyāpati, International Early Hindi Reading Workshop, Online/University of Oxford, UK'
+    - bullet: '**2021** — Language and Culture Update, 2021 India Update, CAP/ANU'
+    - bullet: '**2018** — "God serves the Poet: Vidyāpati as a Popular Devotional Saint." UW-UBC Joint Workshop 2018, Early Modern Literary Cultures Group, University of British Columbia (Canada)'
+    - bullet: '**2018** — "Inventing the Vidyāpati Tradition: Lyric Poetry and Memorialization in Maithili and Bengali Literatures." The American Center, USIEF and the United States Consulate-General (Kolkata, India)'
+    - bullet: '**2017** — Reading Session Leader — Selected Vidyāpati Padas from the *Rāgataraṅgiṇī*, 2nd Annual Middle Bengali Retreat and Workshop, Sapientia Transylvanian Hungarian University (Romania)'
+    - bullet: '**2017** — "At the Margins in the Centre: Maithili Identity and Literature in the Hindi Heartland." ADRI Silver Jubilee Conference: "Bihar & Jharkhand: Shared History to Shared Vision," Asian Development Research Institute (ADRI) (Patna, India)'
+    Conferences and Events Organised:
+    - bullet: '**2026** — Bucknell Humanities Center Summer Institute, "Subjects in Motion." Bucknell University (USA). Co-organised through the Mithila Studies Network with Coralynn V. Davis and Pranav Prakash.'
+    - bullet: '**2025** — **Conference Chair**, The 15th International Conference on the Early Modern Literatures of North India (ICEMLNI), College of Asia & the Pacific, The Australian National University, 3–6 July 2025. First ICEMLNI held in the Southern Hemisphere since the conference''s founding in 1979. Organising committee with Dr. Peter Friedlander (ANU) and Dr. Wang Jing (Peking University).'
+    - bullet: '**2025** — Old Hindi Reading Workshop ("Braj Camp"), College of Asia & the Pacific, The Australian National University, 7–11 July 2025.'
+    - bullet: '**2024** — "Translating South Asia with Booker Prize Winner Daisy Rockwell." India Update 2024, South Asia Research Institute (SARI), CAP-ANU'
+    - bullet: '**2023** — "Defying Ethno-Nationalism: Multilingualism and Creativity in Asia." Academic talk and performance event featuring Prof. Francesca Orsini (SOAS, UK), Prof. Karima Laachir (ANU), Prof. Kim Cunio (ANU), and the Bangladeshi poetry group *Kabbo-Kothon*. *Co-sponsored by SARI & CAIS.*'
+    - bullet: '**2023** — Panel: "Digital Repatriation in South Asia," 51st Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
+    - bullet: '**2022** — Symposium: "Critical Contours of Maithili Studies," 50th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
+    - bullet: '**2021** — "Identity & Ways of Knowing," CHL Flagship. [link](https://anubhasha.org/engagement/chl-flagship/)'
+    - bullet: '**2021** — Panel: "The ''Indescribable Country'': Historical and Contemporary Narratives of Maithili Identity," 49th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
+    - bullet: '**2020** — "Teaching South Asian Languages in 2020," Seminar Series and Workshop. Global Festival of Asian and Pacific Language and Culture Education (CHL Flagship). [link](https://cale.anu.edu.au/event/teaching-south-asian-languages-in-2020/)'
+    - bullet: '**2019** — Panel: "Songs, Stories, and Kirtan: Towards a Consideration of an Eastern Indian Literary Landscape," Association for Asian Studies (AAS) Conference (Denver, CO, USA)'
+    Conference Papers:
+    - bullet: '**2026** — “Between Script and Song: Manuscript Materiality and the Transregional Circulation of Vidyāpati’s *Padas* across Mithilā, Nepal, and Bengal.” Panel: Sounding and Scripting the Sacred — Vernacular Epistemologies across Manuscript, Archive, and Performance in South Asia, AAS-in-Asia 2026, Lahore University of Management Sciences (LUMS), Lahore (Pakistan), September 2026.'
+    - bullet: '**2026** — "From Courtyard to Canon: De-Domesticating Sītā in Nineteenth-Century Maithili *Rāmāyaṇas*." Bucknell Humanities Center Summer Institute, "Subjects in Motion," Bucknell University (USA), July 2026.'
+    - bullet: '**2025** — "Sonic Cartographies: Locana Dās'' *Rāgataraṅgiṇī* and the Construction of Maithili Literary Identity." Panel: Lyrical & Dramatic Circulation, 15th International Conference on the Early Modern Literatures of North India (ICEMLNI), The Australian National University.'
+    - bullet: '**2023** — "Vidyāpati, Caṇḍīdās, and the Construction of Gauḍīya Vaiṣṇava Lyrical Memory." Vaiṣṇava Sensorium Symposium, 51st Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
+    - bullet: '**2023** — "Reimagining Repatriation: Decolonising and Digitising Maithili Manuscript Heritage across the India-Nepal Border." Panel: Digital Repatriation in South Asia, 51st Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
+    - bullet: '**2022** — "A Torrent of Songs: Locana Das'' *Rāgataraṅgiṇī*, the Darbhanga Raj, and the Making of the Maithili Tradition." 50th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
+    - bullet: '**2022** — "Poetic Villains and the Making of Maithil Kings in Vidyāpati''s *Padāvalī*." The 14th International Conference on Early Modern Literatures of North India (ICEMLNI), Osaka University (Japan)'
+    - bullet: '**2021** — "The Songs of Our Forefathers: Maithili Literary Cosmopolitanism Amongst the Mallas of the Kathmandu Valley." The 49th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
+    - bullet: '**2019** — "Singing the Archives: the Mediating Force of Popular Maithili Music and Film in Reading Vidyāpati''s Lyric Poetry." The 46th Annual Conference on South Asia, University of Wisconsin-Madison (USA).'
+    - bullet: '**2019** — "The Hills are Alive with the Sound of Padas: The Circulation of Vidyāpati''s Lyric Poetry between Mithila and the Kathmandu Valley." Association for Asian Studies (AAS) Conference (Denver, CO, USA)'
+    - bullet: '**2018** — "Ādi-Bhakta to Modern Man: Bengali Literary, Religious, and Popular Transformations of Vidyāpati (17th–20th centuries CE)." The 47th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
+    - bullet: '**2018** — "Pragmatics and Ideals: Masculine-Warrior Ethics & Memory in Three Tellings of the Hammīra Narrative." 25th European Conference on South Asian Studies, École des Hautes Études en Sciences Sociales (Paris, France)'
+    - bullet: '**2018** — "Where Did Devī Go? The Popular-Courtly Divide in Vidyāpati''s Maithili Padas." 13th International Conference on Early Modern Literatures of North India, University of Warsaw (Poland)'
+    - bullet: '**2018** — "Will the Real Vidyāpati Please Stand Up! Literary Appropriation and the Vernacular Identity." South and Central Asia Fulbright Conference (New Delhi, India)'
+    - bullet: '**2016** — "Mother India, Mother Mithila: Mourning the Nation, Celebrating the Motherland in the *Mithilānāṭaka*." The 45th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
+    - bullet: '**2015** — "Negotiations of the Classical, Vernacular, and Popular in Maithili Drama." South Asia Conference of the Pacific Northwest (SACPAN), University of British Columbia (Canada)'
+    - bullet: '**2014** — "Negotiations of the Classical, Vernacular, and Popular in Maithili Drama." The 43rd Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
+    - bullet: '**2013** — "City of the Turks: Urban Encounters in Vidyāpati''s *Kīrttilatā* [pt II]." 2nd Biennial Texas Asia Conference (TAC), University of Texas—Austin (USA)'
+    - bullet: '**2013** — "City of the Turks: Jaunpur as Remembered by a Maithili Poet [pt I]." Western Conference of the Association of Asian Studies (WCAAS), Weber State University (USA)'
+    Workshops, Symposia, and Colloquia:
+    - bullet: '**2017** — "The Hammīra Ideal: Memory and Framing in Vidyāpati''s *Puruṣaparīkṣā* and ''Isāmi''s *Futuḥ-us-Salāṭīn*." Memory Construction and Emotion in India, Past and Present. Joint symposium: University of Washington (USA) and Ghent University (Belgium)'
+    - bullet: '**2017** — Early Hindi/Braj Bhasa Retreat and Workshop, Sofia University (Bulgaria)'
+    - bullet: '**2013** — "Maithili Refugees in a Persian World: Vidyāpati''s *Kīrttilatā*." Department of Asian Languages and Literature Colloquium, University of Washington-Seattle (USA)'
+    Guest Lectures and University Talks:
+    - bullet: '**2022, 2023** — Guest Lecture: "Textual Studies: Written Sources & Oral Cultures." ASIA4001 (Fundamentals of Research Design in Asia-Pacific Culture, History and Languages [Honours]). Convener — Prof. Chris Ballard (CHL-ANU)'
+    - bullet: '**2022** — Guest Lecture: "Indian Narratives: The Epics & the Mahābhārata." ASIA2304 (What is Literature? Asian Perspectives). Convener — Prof. Carol Hayes (CHL-ANU)'
+    - bullet: '**2021** — "Teaching in a Hybrid Classroom and my Hybrid Kit." Teaching Seminar Guest Speaker, CHL Hybrid Teaching Seminar'
+    - bullet: '**2020** — Guest Lecture: "Translating South Asian Historical Literature." LANG3001 (Translation Across Languages: Specialised Materials). Convener — Dr. Zhengdao Ye (SLLL-ANU)'
+    University Service:
+    - bullet: '**The Australian National University**'
+    - bullet: '**2026–present** — Member, CHL Research Committee'
+    - bullet: '**2026** — Academic lead for the ANU–American Institute of Indian Studies (AIIS) partnership: Tibetan Teaching Services Agreement (2027–2029) and a study-abroad pathway for ANU Hindi-Urdu and Sanskrit students. Provided the academic advice underpinning curriculum governance, intellectual property, textbook licensing and moderation arrangements.'
+    - bullet: '**2026** — Advisory contributor (Hindi program), CHL Community Language Schools project'
+    - bullet: '**2022–present** — Board Member, South Asia Research Institute (SARI)'
+    - bullet: '**2022–present** — Early Career Researchers Sub-Committee (CAP)'
+    - bullet: '**2023–2024** — Co-lead (with Dr Ying Xin Show), Literary Studies and Area Studies staff responses to the CHL School Review; co-author, structural proposal to the CHL Senior Leadership Group (2024)'
+    - bullet: '**2023–2024** — South Asian Studies & South Asian Languages Representative, CHL Education Committee'
+    - bullet: '**2023–2024** — Deputy-Director, South Asia Research Institute (SARI)'
+    - bullet: '**2021–2022** — The ANU Religion Conference Committee'
+    - bullet: '**2020–2022** — Engagement, Impact, and Research Committee (CHL), *Language Representative*'
+    - bullet: '**2020** — CHL Languages Flagship South Asia Sub-Committee'
+    - bullet: '**University of Washington**'
+    - bullet: '**2018–2019** — Faculty Liaison Officer'
+    - bullet: '**2013–2015** — Colloquium Coordinator, Department of Asian Languages and Literature Graduate Colloquium'
+    Service to the Field:
+    - bullet: '**2026–2028** — Editorial Board Member (South Asia), *Journal of the Society for Asian Humanities* (JOSAH), Australian Society for Asian Humanities (ASAH)'
+    - bullet: '**2026** — Peer reviewer, Festschrift volume for Prof. Danuta Stasik, University of Warsaw (invited as specialist in Mithila Studies)'
+    - bullet: '**2021** — Co-organised a weekly reading group for Old Maithili-Brajabuli for international scholars (Australia, India, Bangladesh, USA, UK, Europe)'
+    - bullet: '**2021** — External Examiner for a Ph.D. thesis review in History (Jawaharlal Nehru University, India)'
+    Public Engagement:
+    - bullet: '**2026** — Witness, public hearing (Canberra, 13 April 2026), House Standing Committee on Education, *Inquiry into Building Asia Capability in Australia through the Education System and Beyond*. Evidence on the case for legislative protection of critically strategic languages and for direct investment in beginner-to-advanced university language programs'
+    - bullet: '**2022, 2024** — Asia-Pacific Week Language Taster Session — Hindi Representative'
+    - bullet: '**2022** — College of Asia & the Pacific Students'' Union Language Expo — Hindi Representative'
+    - bullet: '**2021** — ANU Humanities, Arts & Social Sciences (HASS) Language Expo — Hindi Representative'
+    - bullet: '**2021** — South Asian Languages and Scripts Panel organiser and moderator, Canberra Celebration of Languages (ACT Bilingual Education Alliance)'
+    - bullet: '**2021** — Language and Culture Consultant for the Australian Federal Police'
+    - bullet: '**2021** — Weekly Hindi Language Lunch Table'
+    - bullet: '**2020** — Hindi translation of bushfire safety materials for ACT Health'
+    - bullet: '**2020** — CHL Language Booth at the Canberra Multicultural Festival'
+    Professional Development:
+    - bullet: '**2024** — Fellow Application — Educational Fellowship Scheme (EFS)'
+    - bullet: '**2021, 2022** — Foundations of HDR Supervision Course'
+    - bullet: '**2020** — Foundations of University Teaching and Learning Course (ANU CTL)'
+    - bullet: '**2020** — Welcome to Country — Ngunnawal Language Workshop (ANU NECTAR)'
+    Professional Affiliations:
+    - bullet: Association for Asian Studies (AAS)
+    - bullet: European Association for South Asian Studies (EASAS)
+    - bullet: Asian Studies Association of Australia (ASAA)
+    - bullet: South Asian Studies Association of Australia (SASAA)
