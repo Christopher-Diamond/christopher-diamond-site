@@ -8,6 +8,6 @@ scopus_id: 57212020699 # your Scopus author ID
 github_username: Christopher-Diamond # your GitHub user name
 # rss_icon: true # no blog, so hidden
 anu_profile: # custom link (any name not already defined in jekyll-socials)
-  logo: https://www.anu.edu.au/favicon.ico
+  logo: fa-solid fa-building-columns # Font Awesome class; an image URL must end in .png, .svg or .jpg
   title: ANU Research Profile
   url: https://researchportalplus.anu.edu.au/en/persons/chris-diamond/
