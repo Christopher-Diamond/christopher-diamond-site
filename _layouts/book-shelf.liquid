@@ -1,0 +1,52 @@
+---
+layout: page
+---
+{% comment %}
+  Local override of al_folio_core's book-shelf layout.
+  Changes: items can be books, films, TV or games (front matter `type`);
+  watching/watched/rewatch/playing/played are accepted statuses; a small
+  type label sits under each cover; items with no cover, or whose Open Library cover is missing, show a title tile.
+{% endcomment %}
+{{ content }}
+
+{% if page.collection and page.collection.size > 0 %}
+  {% assign collection = site[page.collection] | sort: 'started' %}
+  {% if collection and collection.size > 0 %}
+    {% for item in collection reversed %}
+      {% assign current_year = item.started | date: '%Y' %}
+      {% if current_year != year %}
+        {% unless forloop.first %}
+          </div>
+        {% endunless %}
+        <h2 class="shelf-year" id="y{{ current_year }}">{{ current_year }}</h2>
+        <div class="shelf">
+          {% assign year = current_year %}
+      {% endif %}
+
+      <figure class="cover">
+        <a class="cover-link" href="{{ item.url | relative_url }}" title="{{ item.title }}">
+          {% if item.cover %}
+            <img alt="{{ item.title }} cover" src="{{ item.cover | relative_url }}" style="height:200px">
+          {% elsif item.olid %}
+            <img alt="{{ item.title }} cover" src="https://covers.openlibrary.org/b/olid/{{ item.olid }}-L.jpg?default=false" style="height:200px" onerror="this.onerror=null;this.outerHTML='<span class=&quot;cover-tile&quot;><span>{{ item.title | escape | replace: "'", "&#39;" }}</span></span>'">
+          {% elsif item.isbn %}
+            <img alt="{{ item.title }} cover" src="https://covers.openlibrary.org/b/isbn/{{ item.isbn }}-L.jpg?default=false" style="height:200px" onerror="this.onerror=null;this.outerHTML='<span class=&quot;cover-tile&quot;><span>{{ item.title | escape | replace: "'", "&#39;" }}</span></span>'">
+          {% else %}
+            <span class="cover-tile"><span>{{ item.title }}</span></span>
+          {% endif %}
+          {% assign statuses = 'abandoned,finished,interested,paused,queued,reading,reread,watching,watched,rewatch,playing,played' | split: ',' %}
+          {% assign status = item.status | downcase | strip %}
+          {% if item.status and statuses contains status %}
+            <figcaption class="{{ status }}">{{ status | upcase }}</figcaption>
+          {% else %}
+            <figcaption class="uncategorized">UNCATEGORIZED</figcaption>
+          {% endif %}
+        </a>
+        {% if item.type %}<span class="cover-type">{{ item.type }}</span>{% endif %}
+      </figure>
+      {% if forloop.last %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endif %}

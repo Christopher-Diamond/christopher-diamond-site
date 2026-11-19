@@ -1,245 +1,399 @@
 # Curriculum vitae of Christopher L. Diamond, rendered by al-folio (layout: cv, cv_format: rendercv).
-# Generated from the master CV in the Obsidian vault (00-Vault-Hub/CV/CV.md), edited for the public website.
+# Public website version, simplified 19 Nov 2026. Maintained separately from the vault master CV.
+# Previous version: _demo/cv-before-2026-11-19.yml
 
 cv:
-  name: Christopher L. Diamond
+  name: Dr Christopher L. Diamond
+  location: School of Culture, History and Language, College of Asia and the Pacific, The Australian National University, Canberra ACT 2600, Australia
   email: christopher.diamond@anu.edu.au
-  location: Canberra, Australia
   sections:
-    Experience:
-    - company: School of Culture, History and Language, College of Asia & the Pacific, The Australian National University
-      position: Senior Lecturer in Hindi & South Asian Studies
+    Research Interests:
+    - label: Literature
+      details: Vidyāpati and Maithili lyric, bhakti poetry, eastern Indian epics and Purāṇas
+    - label: Texts
+      details: Manuscript cultures, textual criticism and translation, digital philology and repatriation
+    - label: History
+      details: Mithila, courts and kingship in Nepal and Bihar, Bengal and the Hindi heartland
+    - label: Performance
+      details: Song and music, drama and the Maithili nāṭaka tradition
+    Appointments:
+    - company: The Australian National University
+      position: Senior Lecturer in Hindi-Urdu and South Asian Studies
       start_date: 2025
       end_date: present
-    - company: School of Culture, History and Language, College of Asia & the Pacific, The Australian National University
-      position: Lecturer in Hindi & South Asian Studies
+      location: Canberra, Australia
+    - company: The Australian National University
+      position: Lecturer in Hindi and South Asian Studies
       start_date: 2020
       end_date: 2024
-    - company: University of Puget Sound (USA)
+      location: Canberra, Australia
+    - company: University of Puget Sound
       position: Lecturer in Hindi
-      start_date: 2019
-      end_date: 2019
-    - company: South Asia Summer Language Institute (SASLI), University of Wisconsin-Madison (USA)
-      position: Faculty Assistant
-      start_date: 2019
-      end_date: 2019
-    - company: Department of Asian Languages and Literature, University of Washington-Seattle (USA)
-      position: Teaching Associate
-      start_date: 2018
-      end_date: 2019
-    - company: Department of Bengali, Jadavpur University (India)
-      position: Fulbright-Nehru Scholar
+      date: 2019
+      location: Tacoma, USA
+    - company: Jadavpur University
+      position: Fulbright-Nehru Research Fellow
       start_date: 2017
       end_date: 2018
-    - company: Department of Asian Languages & Literature, University of Washington-Seattle (USA)
-      position: Graduate Teaching Assistant
-      start_date: 2015
-      end_date: 2018
-    Education:
-    - institution: University of Washington, Seattle, USA
+      location: Kolkata, India
+    Qualifications:
+    - institution: University of Washington
       area: South Asian Languages and Literature
       degree: PhD
       date: 2019
-    - institution: University of Washington, Seattle, USA
+      location: Seattle, USA
+    - institution: University of Washington
       area: South Asian Languages and Literature
       degree: MA
-      start_date: 2012
-      end_date: 2015
-    - institution: School of Oriental and African Studies (SOAS), London, U.K.
-      area: Hindi & Music
+      date: 2015
+      location: Seattle, USA
+    - institution: SOAS, University of London
+      area: Hindi and Music
       degree: BA
-      start_date: 2007
-      end_date: 2011
-    Research Languages:
-    - label: Modern spoken and written
+      date: 2011
+      location: London, UK
+    Languages:
+    - label: Modern
       details: Hindi, Urdu, Bengali, Persian, French
-    - label: Medieval and classical research languages
-      details: Maithili, Sanskrit, Braj Bhasha, Avadhi, Sant Bhasha, Middle Bengali, Apabhraṃśa, Prakrit
-    Publications and Outputs:
-    - bullet: '**JOURNAL ARTICLES**'
-    - bullet: '**2026** — "The ''Indescribable Country'': Locating Mithila between Bengal and the Hindi Heartland in Raghunandana Das''s *Mithilānāṭaka*." *Asian Ethnology* 85, no. 1 (2026). Special issue, "Critical Contours of Mithila Studies," ed. Davis, Diamond, and Prakash. Nagoya: Nanzan University. [Open access]'
-    - bullet: '**2026** — "Guest Editors'' Introduction: Defining and Contextualizing Mithila Studies." *Asian Ethnology* 85, no. 1 (2026). Special issue, "Critical Contours of Mithila Studies," ed. Davis, Diamond, and Prakash. Nagoya: Nanzan University. *Co-authored with Pranav Prakash and Coralynn V. Davis.* [Open access]'
-    - bullet: '**2019** — "The Strange Afterlife of Vidyāpati Ṭhākura (c. 1350–1450 CE): Anthological Manuscripts, Linguistic Confusion, and Religious Appropriation." *Manuscript Studies* 4, no. 1 (2019): 72–92. Special issue, ed. Arthur Dudney and Neeraja Poddar. Philadelphia: University of Pennsylvania Press. [Open access]'
-    - bullet: '**EDITED SPECIAL ISSUE**'
-    - bullet: '**2026** — *Critical Contours of Mithila Studies*. Special issue of *Asian Ethnology* 85, no. 1. Guest co-editor with Coralynn V. Davis (Bucknell University) and Pranav Prakash (University of Oxford). Nagoya: Nanzan University.'
-    - bullet: '**ENCYCLOPEDIA ARTICLES**'
-    - bullet: '**2025** — "Vidyāpati." *Dictionnaire Encyclopédique des Littératures de l''Inde* (DELI). Paris.'
-    - bullet: '**2025** — "Maithili, Langue et Littérature." *Dictionnaire Encyclopédique des Littératures de l''Inde* (DELI). Paris.'
-    - bullet: '**PUBLIC SCHOLARSHIP**'
-    - bullet: '**2026** — "Whose Ramayana? A Sacred Story Remade ''for Everyone''." *ABC Religion & Ethics*, Australian Broadcasting Corporation, November 12, 2026. [link](https://www.abc.net.au/religion/christopher-diamond-ramayana-sacred-story-remade-for-everyone/107377736)'
-    - bullet: '**2023** — "READ Workbench (Part 2): Digital Repatriation, Pedagogy and Transnational Heritage." *The Digital Orientalist* (blog), May 23, 2023. [link](https://digitalorientalist.com/2023/05/23/read-workbench-part-2-digital-repatriation-pedagogy-and-transnational-heritage/)'
-    - bullet: '**2023** — "Podcasting as Digital Storytelling in Research and Outreach." *The Digital Orientalist* (blog), March 17, 2023. [link](https://digitalorientalist.com/2023/03/17/podcasting-as-digital-storytelling-in-research-and-outreach/)'
-    - bullet: '**2022** — "READ Workbench (Part 1): An Introduction to a Text and Image Annotation Ecosystem." *The Digital Orientalist* (blog), October 21, 2022. [link](https://digitalorientalist.com/2022/10/21/read-workbench-part-1-an-introduction-to-a-text-image-annotation-ecosystem/)'
-    - bullet: '**2021** — Diamond, C. and Brown, T. "6 unis had Hindi programs. Soon there could be only 1, and that''s not in Australia''s best interests." *The Conversation*. [link](https://theconversation.com/6-unis-had-hindi-programs-soon-there-could-be-only-1-and-thats-not-in-australias-best-interests-151096)'
-    - bullet: '**BOOK REVIEWS**'
-    - bullet: '**2020** — d''Hubert, Thibaut. *In the Shade of the Golden Palace: Ālāol and Middle Bengali Poetics in Arakan*. New York: Oxford University Press, 2018. *The Journal of Religion*.'
-    - bullet: '**2019** — Salomon, Carol, Keith E. Cantú, Sāimana Jākāriyā, and Lālana Śāha. *City of Mirrors: Songs of Lālan Sā̃i*. New York: Oxford University Press, 2017. *International Journal of Hindu Studies*.'
-    - bullet: '**2017** — Brockington, John, Mary Brockington, and Mandakranta Bose, eds. *The Other Rāmāyaṇa Women: Regional Rejection and Response*. Routledge Hindu Studies Series. London and New York: Routledge Taylor & Francis Group, 2016. *Journal of the Royal Asiatic Society* 27, no. 4 (2017): 685–86.'
-    - bullet: '**PODCAST**'
-    - bullet: '*The ANUBhasha Podcast: Digital Repatriation in South Asia.*'
-    - bullet: '**31/03/2023** — "Librarians are our Heroes!" Guest: Nicole Merkel-Hilf. Audio, 37m42s. [link](https://www.buzzsprout.com/2118914/episodes/12475555)'
-    - bullet: '**24/03/2023** — "Digital Preservation for a Submerging Valley — Part 2." Guests: Jason Neelis, Murtaza Taj, Atiq Hashmi. Audio, 36m59s. [link](https://www.buzzsprout.com/2118914/episodes/12468430)'
-    - bullet: '**17/03/2023** — "Digital Preservation for a Submerging Valley — Part 1." Guests: Jason Neelis, Murtaza Taj, Atiq Hashmi. Audio, 39m07s. [link](https://www.buzzsprout.com/2118914/episodes/12413469)'
-    - bullet: '**10/03/2023** — "Humble Researchers, Open Homes." Guest: Ronit Ricci. Audio, 56m27s. [link](https://www.buzzsprout.com/2118914/episodes/12344489)'
-    - bullet: '**03/03/2023** — "''Trees and Rocks'' in a Global Digital World." Guests: Joe Marino, Mike Skinner. Audio, 56m27s. [link](https://www.buzzsprout.com/2118914/episodes/12295204)'
-    - bullet: '**24/02/2023** — "Access, Privilege, and Purpose." Guest: Adrian Plau. Audio, 58m11s. [link](https://www.buzzsprout.com/2118914/episodes/12247665)'
-    - bullet: '**20/02/2023** — "Introduction: Digital Repatriation in South Asia." Audio, 3m39s. [link](https://www.buzzsprout.com/2118914/episodes/12216533)'
-    Research Projects, Grants, and Awards:
-    - bullet: '**PROJECTS AND NETWORKS**'
-    - bullet: '**2022–present** — **The Mithila Studies Network**. [www.mithilastudies.org](http://www.mithilastudies.org). *Co-founded with Prof. Coralynn V. Davis (Bucknell University) and Dr. Pranav Prakash (University of Oxford).*'
-    - bullet: '**2021–present** — **ANUBhasha: a South Asian Languages & Literature Collective at ANU**. [www.anubhasha.org](http://www.anubhasha.org). *Co-founded with Dr. Stephanie Majcher (CHL-ANU).*'
-    - bullet: '**2022** — **"Textual Digitisation and Repatriation in South Asia."** Asia-Pacific Innovation Project (APIP) Basic & Applied Research Grant (CHL-ANU). Chief Investigator, *with Dr. Stephanie Majcher*. [link](https://anubhasha.org/engagement/textual-digitization-and-repatriation-in-south-asia-apip-2022/)'
-    - bullet: '**GRANTS, AWARDS, AND FELLOWSHIPS**'
-    - bullet: '**2026** — Asia Pacific Innovation Program (APIP) Seed Funding (ANU College of Asia and the Pacific), *Singing the Manuscript: A Multilingual Digital Infrastructure for South Asian Text and Performance Traditions*. Co-Chief Investigator, *with Dr. Sabeena Shaikh*'
-    - bullet: '**2022** — Asia-Pacific Innovation Project (APIP) Basic & Applied Research Grant (ANU)'
-    - bullet: '**2021** — CHL Flagship — ''Identity & Ways of Knowing'''
-    - bullet: '**2021** — Nomination: Award for Teaching Excellence'
-    - bullet: '**2019** — Dean''s Graduate Medal in the Humanities'
-    - bullet: '**2019** — Maurice D. and Lois B. Schwartz Dissertation Writing Fellowship'
-    - bullet: '**2019** — Antoinette Wills Endowed Scholarship'
-    - bullet: '**2019** — Alvord Dissertation Fellowship in the Humanities (UW)'
-    - bullet: '**2018** — Turrell V. Wylie Memorial Scholarship (AL&L UW)'
-    - bullet: '**2018** — Department of Asian Languages and Literature Travel Grant (UW)'
-    - bullet: '**2017–2018** — Fulbright-Nehru Student Research Fellowship'
-    - bullet: '**2017–2018** — American Institute of Indian Studies Junior Fellowship [declined]'
-    - bullet: '**2017** — American Institute of Bangladesh Studies Travel Grant'
-    - bullet: '**2017** — JSIS South Asia Studies Student Fund Travel Award (UW)'
-    - bullet: '**2016** — AIIS Summer Language Fellowship (Sanskrit)'
-    - bullet: '**2016** — Frank F. Conlon South Asia Fellowship [declined] (UW)'
-    - bullet: '**2016** — FLAS Fellowship for Advanced Persian'
-    - bullet: '**2015** — Scott Swaner Memorial Book Award for Scholarship (AL&L UW)'
-    - bullet: '**2015** — FLAS Fellowship for Advanced Persian'
-    - bullet: '**2014** — FLAS Fellowship for Elementary Persian'
-    - bullet: '**2013–2014** — FLAS Fellowship for Advanced Bengali'
-    - bullet: '**2013** — FLAS Fellowship for Advanced Bengali'
-    - bullet: '**2012–2013** — FLAS Fellowship for Intermediate Bengali'
-    - bullet: '**2012** — FLAS Fellowship for Elementary Bengali'
-    Teaching and Supervision:
-    - bullet: '**PROGRAMS CONVENED (ANU)**'
-    - bullet: '**2022–present** — Hindi-Urdu Language Program'
-    - bullet: '**2023–present** — South Asian Studies Major'
-    - bullet: '**2023–present** — Tibetan Language Minor *(program convenorship; teaching delivered by program staff)*'
-    - bullet: '**COURSES TAUGHT (ANU)**'
-    - bullet: '**2020, 2021, 2022, 2023, 2024, 2025** — HIND1100 (Hindi 1)'
-    - bullet: '**2020, 2021, 2022, 2023, 2024, 2025** — HIND1200 (Hindi 2)'
-    - bullet: '**2021, 2022, 2023, 2024, 2025, 2026** — HIND2300 (Hindi 3)'
-    - bullet: '**2021, 2022, 2023, 2024, 2025, 2026** — HIND2400 (Hindi 4)'
-    - bullet: '**2023, 2025, 2026** — HIND3500 (Hindi 5)'
-    - bullet: '**2023, 2024** — HIND3600 (Hindi 6)'
-    - bullet: '**2023, 2024, 2025** — ASIA3108 (Research Topics in Asian & Pacific Languages [L])'
-    - bullet: '**2022, 2024** — ASIA2275 (The Pleasures and Powers of Stories in South & Southeast Asia)'
-    - bullet: '**CURRICULUM DEVELOPMENT**'
-    - bullet: '**2025–present** — Hindi-Urdu language textbook in development, taught from in current courses'
-    - bullet: '**EARLIER TEACHING**'
-    - bullet: '*University of Puget Sound (Instructor of Record)*'
-    - bullet: '**2019** — Elementary Hindi'
-    - bullet: '*South Asian Summer Language Institute, University of Wisconsin-Madison (Faculty Assistant)*'
-    - bullet: '**2016** — Elementary Hindi'
-    - bullet: '*University of Washington (Teaching Associate [Instructor of Record])*'
-    - bullet: '**2019** — Modern South Asian Literature'
-    - bullet: '**2018** — Literature of Ancient and Medieval India'
-    - bullet: '*University of Washington (Teaching Assistant)*'
-    - bullet: '**2017** — The Ramayana in Comparative Perspective'
-    - bullet: '**2017** — Modern South Asian Literature'
-    - bullet: '**2016, 2014** — Fairies, Genies, and Monsters: The Romance in India'
-    - bullet: '**2016** — Survey of Modern Hindi/Urdu Literature: Drama'
-    - bullet: '**2015** — Elementary Hindi'
-    - bullet: '**2015** — Perceptions of the Feminine Divine in Hinduism'
-    - bullet: '**2015** — Hindu-Muslim Literary Encounters'
-    - bullet: '**HDR SUPERVISION**'
-    - bullet: '**2023–present** — Supervisory panel member, PhD in Anthropology of Religion, CHL'
-    - bullet: '**2023–present** — Supervisory panel member, PhD in Linguistics, CHL'
-    - bullet: '**2022–present** — Supervisory panel member, PhD in Anthropology, CHL'
-    Talks and Conferences:
-    - bullet: '**INVITED LECTURES AND WORKSHOPS**'
-    - bullet: '**2022** — "Masculine Ethics, Geography, and Maithil Identity in the Works of Vidyāpati." Life in Mithila: History, Society and Politics in a Region, Mithila Study Group, Online Seminar'
-    - bullet: '**2021** — Language and Reading Session Leader — Maithili & Vidyāpati, International Early Hindi Reading Workshop, Online/University of Oxford, UK'
-    - bullet: '**2021** — Language and Culture Update, 2021 India Update, CAP/ANU'
-    - bullet: '**2018** — "God serves the Poet: Vidyāpati as a Popular Devotional Saint." UW-UBC Joint Workshop 2018, Early Modern Literary Cultures Group, University of British Columbia (Canada)'
-    - bullet: '**2018** — "Inventing the Vidyāpati Tradition: Lyric Poetry and Memorialization in Maithili and Bengali Literatures." The American Center, USIEF and the United States Consulate-General (Kolkata, India)'
-    - bullet: '**2017** — Reading Session Leader — Selected Vidyāpati Padas from the *Rāgataraṅgiṇī*, 2nd Annual Middle Bengali Retreat and Workshop, Sapientia Transylvanian Hungarian University (Romania)'
-    - bullet: '**2017** — "At the Margins in the Centre: Maithili Identity and Literature in the Hindi Heartland." ADRI Silver Jubilee Conference: "Bihar & Jharkhand: Shared History to Shared Vision," Asian Development Research Institute (ADRI) (Patna, India)'
-    - bullet: '**CONFERENCE PAPERS**'
-    - bullet: '**2026** — “Between Script and Song: Manuscript Materiality and the Transregional Circulation of Vidyāpati’s *Padas* across Mithilā, Nepal, and Bengal.” Panel: Sounding and Scripting the Sacred — Vernacular Epistemologies across Manuscript, Archive, and Performance in South Asia, AAS-in-Asia 2026, Lahore University of Management Sciences (LUMS), Lahore (Pakistan), September 2026.'
-    - bullet: '**2026** — "From Courtyard to Canon: De-Domesticating Sītā in Nineteenth-Century Maithili *Rāmāyaṇas*." Bucknell Humanities Center Summer Institute, "Subjects in Motion," Bucknell University (USA), July 2026.'
-    - bullet: '**2025** — "Sonic Cartographies: Locana Dās'' *Rāgataraṅgiṇī* and the Construction of Maithili Literary Identity." Panel: Lyrical & Dramatic Circulation, 15th International Conference on the Early Modern Literatures of North India (ICEMLNI), The Australian National University.'
-    - bullet: '**2023** — "Vidyāpati, Caṇḍīdās, and the Construction of Gauḍīya Vaiṣṇava Lyrical Memory." Vaiṣṇava Sensorium Symposium, 51st Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
-    - bullet: '**2023** — "Reimagining Repatriation: Decolonising and Digitising Maithili Manuscript Heritage across the India-Nepal Border." Panel: Digital Repatriation in South Asia, 51st Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
-    - bullet: '**2022** — "A Torrent of Songs: Locana Das'' *Rāgataraṅgiṇī*, the Darbhanga Raj, and the Making of the Maithili Tradition." 50th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
-    - bullet: '**2022** — "Poetic Villains and the Making of Maithil Kings in Vidyāpati''s *Padāvalī*." The 14th International Conference on Early Modern Literatures of North India (ICEMLNI), Osaka University (Japan)'
-    - bullet: '**2021** — "The Songs of Our Forefathers: Maithili Literary Cosmopolitanism Amongst the Mallas of the Kathmandu Valley." The 49th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
-    - bullet: '**2019** — "Singing the Archives: the Mediating Force of Popular Maithili Music and Film in Reading Vidyāpati''s Lyric Poetry." The 46th Annual Conference on South Asia, University of Wisconsin-Madison (USA).'
-    - bullet: '**2019** — "The Hills are Alive with the Sound of Padas: The Circulation of Vidyāpati''s Lyric Poetry between Mithila and the Kathmandu Valley." Association for Asian Studies (AAS) Conference (Denver, CO, USA)'
-    - bullet: '**2018** — "Ādi-Bhakta to Modern Man: Bengali Literary, Religious, and Popular Transformations of Vidyāpati (17th–20th centuries CE)." The 47th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
-    - bullet: '**2018** — "Pragmatics and Ideals: Masculine-Warrior Ethics & Memory in Three Tellings of the Hammīra Narrative." 25th European Conference on South Asian Studies, École des Hautes Études en Sciences Sociales (Paris, France)'
-    - bullet: '**2018** — "Where Did Devī Go? The Popular-Courtly Divide in Vidyāpati''s Maithili Padas." 13th International Conference on Early Modern Literatures of North India, University of Warsaw (Poland)'
-    - bullet: '**2018** — "Will the Real Vidyāpati Please Stand Up! Literary Appropriation and the Vernacular Identity." South and Central Asia Fulbright Conference (New Delhi, India)'
-    - bullet: '**2016** — "Mother India, Mother Mithila: Mourning the Nation, Celebrating the Motherland in the *Mithilānāṭaka*." The 45th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
-    - bullet: '**2015** — "Negotiations of the Classical, Vernacular, and Popular in Maithili Drama." South Asia Conference of the Pacific Northwest (SACPAN), University of British Columbia (Canada)'
-    - bullet: '**2014** — "Negotiations of the Classical, Vernacular, and Popular in Maithili Drama." The 43rd Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
-    - bullet: '**2013** — "City of the Turks: Urban Encounters in Vidyāpati''s *Kīrttilatā* [pt II]." 2nd Biennial Texas Asia Conference (TAC), University of Texas—Austin (USA)'
-    - bullet: '**2013** — "City of the Turks: Jaunpur as Remembered by a Maithili Poet [pt I]." Western Conference of the Association of Asian Studies (WCAAS), Weber State University (USA)'
-    - bullet: '**WORKSHOPS, SYMPOSIA, AND COLLOQUIA**'
-    - bullet: '**2017** — "The Hammīra Ideal: Memory and Framing in Vidyāpati''s *Puruṣaparīkṣā* and ''Isāmi''s *Futuḥ-us-Salāṭīn*." Memory Construction and Emotion in India, Past and Present. Joint symposium: University of Washington (USA) and Ghent University (Belgium)'
-    - bullet: '**2017** — Early Hindi/Braj Bhasa Retreat and Workshop, Sofia University (Bulgaria)'
-    - bullet: '**2013** — "Maithili Refugees in a Persian World: Vidyāpati''s *Kīrttilatā*." Department of Asian Languages and Literature Colloquium, University of Washington-Seattle (USA)'
-    - bullet: '**GUEST LECTURES AND UNIVERSITY TALKS**'
-    - bullet: '**2022, 2023** — Guest Lecture: "Textual Studies: Written Sources & Oral Cultures." ASIA4001 (Fundamentals of Research Design in Asia-Pacific Culture, History and Languages [Honours]). Convener — Prof. Chris Ballard (CHL-ANU)'
-    - bullet: '**2022** — Guest Lecture: "Indian Narratives: The Epics & the Mahābhārata." ASIA2304 (What is Literature? Asian Perspectives). Convener — Prof. Carol Hayes (CHL-ANU)'
-    - bullet: '**2021** — "Teaching in a Hybrid Classroom and my Hybrid Kit." Teaching Seminar Guest Speaker, CHL Hybrid Teaching Seminar'
-    - bullet: '**2020** — Guest Lecture: "Translating South Asian Historical Literature." LANG3001 (Translation Across Languages: Specialised Materials). Convener — Dr. Zhengdao Ye (SLLL-ANU)'
-    - bullet: '**CONFERENCES AND EVENTS ORGANISED**'
-    - bullet: '**2026** — Bucknell Humanities Center Summer Institute, "Subjects in Motion." Bucknell University (USA). Co-organised through the Mithila Studies Network with Coralynn V. Davis and Pranav Prakash.'
-    - bullet: '**2025** — **Conference Chair**, The 15th International Conference on the Early Modern Literatures of North India (ICEMLNI), College of Asia & the Pacific, The Australian National University, 3–6 July 2025. First ICEMLNI held in the Southern Hemisphere since the conference''s founding in 1979. Organising committee with Dr. Peter Friedlander (ANU) and Dr. Wang Jing (Peking University).'
-    - bullet: '**2025** — Old Hindi Reading Workshop ("Braj Camp"), College of Asia & the Pacific, The Australian National University, 7–11 July 2025.'
-    - bullet: '**2024** — "Translating South Asia with Booker Prize Winner Daisy Rockwell." India Update 2024, South Asia Research Institute (SARI), CAP-ANU'
-    - bullet: '**2023** — "Defying Ethno-Nationalism: Multilingualism and Creativity in Asia." Academic talk and performance event featuring Prof. Francesca Orsini (SOAS, UK), Prof. Karima Laachir (ANU), Prof. Kim Cunio (ANU), and the Bangladeshi poetry group *Kabbo-Kothon*. *Co-sponsored by SARI & CAIS.*'
-    - bullet: '**2023** — Panel: "Digital Repatriation in South Asia," 51st Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
-    - bullet: '**2022** — Symposium: "Critical Contours of Maithili Studies," 50th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
-    - bullet: '**2021** — "Identity & Ways of Knowing," CHL Flagship. [link](https://anubhasha.org/engagement/chl-flagship/)'
-    - bullet: '**2021** — Panel: "The ''Indescribable Country'': Historical and Contemporary Narratives of Maithili Identity," 49th Annual Conference on South Asia, University of Wisconsin-Madison (USA)'
-    - bullet: '**2020** — "Teaching South Asian Languages in 2020," Seminar Series and Workshop. Global Festival of Asian and Pacific Language and Culture Education (CHL Flagship). [link](https://cale.anu.edu.au/event/teaching-south-asian-languages-in-2020/)'
-    - bullet: '**2019** — Panel: "Songs, Stories, and Kirtan: Towards a Consideration of an Eastern Indian Literary Landscape," Association for Asian Studies (AAS) Conference (Denver, CO, USA)'
-    Service and Engagement:
-    - bullet: '**UNIVERSITY SERVICE**'
-    - bullet: '*The Australian National University*'
-    - bullet: '**2026–present** — Member, CHL Research Committee'
-    - bullet: '**2026** — Academic lead for the ANU–American Institute of Indian Studies (AIIS) partnership: Tibetan Teaching Services Agreement (2027–2029) and a study-abroad pathway for ANU Hindi-Urdu and Sanskrit students. Provided the academic advice underpinning curriculum governance, intellectual property, textbook licensing and moderation arrangements.'
-    - bullet: '**2026** — Advisory contributor (Hindi program), CHL Community Language Schools project'
-    - bullet: '**2022–present** — Board Member, South Asia Research Institute (SARI)'
-    - bullet: '**2022–present** — Early Career Researchers Sub-Committee (CAP)'
-    - bullet: '**2023–2024** — Co-lead (with Dr Ying Xin Show), Literary Studies and Area Studies staff responses to the CHL School Review; co-author, structural proposal to the CHL Senior Leadership Group (2024)'
-    - bullet: '**2023–2024** — South Asian Studies & South Asian Languages Representative, CHL Education Committee'
-    - bullet: '**2023–2024** — Deputy-Director, South Asia Research Institute (SARI)'
-    - bullet: '**2021–2022** — The ANU Religion Conference Committee'
-    - bullet: '**2020–2022** — Engagement, Impact, and Research Committee (CHL), *Language Representative*'
-    - bullet: '**2020** — CHL Languages Flagship South Asia Sub-Committee'
-    - bullet: '*University of Washington*'
-    - bullet: '**2018–2019** — Faculty Liaison Officer'
-    - bullet: '**2013–2015** — Colloquium Coordinator, Department of Asian Languages and Literature Graduate Colloquium'
-    - bullet: '**SERVICE TO THE FIELD**'
-    - bullet: '**2026–2028** — Editorial Board Member (South Asia), *Journal of the Society for Asian Humanities* (JOSAH), Australian Society for Asian Humanities (ASAH)'
-    - bullet: '**2026** — Peer reviewer, Festschrift volume for Prof. Danuta Stasik, University of Warsaw (invited as specialist in Mithila Studies)'
-    - bullet: '**2021** — Co-organised a weekly reading group for Old Maithili-Brajabuli for international scholars (Australia, India, Bangladesh, USA, UK, Europe)'
-    - bullet: '**2021** — External Examiner for a Ph.D. thesis review in History (Jawaharlal Nehru University, India)'
-    - bullet: '**PUBLIC ENGAGEMENT**'
-    - bullet: '**2026** — Witness, public hearing (Canberra, 13 April 2026), House Standing Committee on Education, *Inquiry into Building Asia Capability in Australia through the Education System and Beyond*. Evidence on the case for legislative protection of critically strategic languages and for direct investment in beginner-to-advanced university language programs'
-    - bullet: '**2022, 2024** — Asia-Pacific Week Language Taster Session — Hindi Representative'
-    - bullet: '**2022** — College of Asia & the Pacific Students'' Union Language Expo — Hindi Representative'
-    - bullet: '**2021** — ANU Humanities, Arts & Social Sciences (HASS) Language Expo — Hindi Representative'
-    - bullet: '**2021** — South Asian Languages and Scripts Panel organiser and moderator, Canberra Celebration of Languages (ACT Bilingual Education Alliance)'
-    - bullet: '**2021** — Language and Culture Consultant for the Australian Federal Police'
-    - bullet: '**2021** — Weekly Hindi Language Lunch Table'
-    - bullet: '**2020** — Hindi translation of bushfire safety materials for ACT Health'
-    - bullet: '**2020** — CHL Language Booth at the Canberra Multicultural Festival'
-    Professional Development and Affiliations:
-    - bullet: '**PROFESSIONAL DEVELOPMENT**'
-    - bullet: '**2024** — Fellow Application — Educational Fellowship Scheme (EFS)'
-    - bullet: '**2021, 2022** — Foundations of HDR Supervision Course'
-    - bullet: '**2020** — Foundations of University Teaching and Learning Course (ANU CTL)'
-    - bullet: '**2020** — Welcome to Country — Ngunnawal Language Workshop (ANU NECTAR)'
-    - bullet: '**PROFESSIONAL AFFILIATIONS**'
-    - bullet: Association for Asian Studies (AAS)
-    - bullet: European Association for South Asian Studies (EASAS)
+    - label: Premodern
+      details: Maithili, Sanskrit, Braj Bhāṣā, Avadhī, Middle Bengali, Apabhraṃśa, Prakrit
+    Publications:
+    - title: 'The ‘Indescribable Country’: Locating Mithila between Bengal and the Hindi Heartland in Raghunandana Das’s Mithilānāṭaka'
+      authors:
+      - Christopher L. Diamond
+      date: 2026
+      journal: Asian Ethnology 85 (1)
+      publisher: Asian Ethnology 85 (1)
+    - title: 'Guest Editors’ Introduction: Defining and Contextualizing Mithila Studies'
+      authors:
+      - Christopher L. Diamond
+      date: 2026
+      journal: Asian Ethnology 85 (1)
+      publisher: Asian Ethnology 85 (1)
+      summary: With Pranav Prakash and Coralynn V. Davis.
+    - title: Critical Contours of Mithila Studies (special issue, guest co-editor)
+      authors:
+      - Christopher L. Diamond
+      date: 2026
+      journal: Asian Ethnology 85 (1)
+      publisher: Asian Ethnology 85 (1)
+      summary: With Coralynn V. Davis and Pranav Prakash.
+    - title: Whose Ramayana? A Sacred Story Remade ‘for Everyone’
+      authors:
+      - Christopher L. Diamond
+      date: 2026
+      journal: ABC Religion & Ethics
+      publisher: ABC Religion & Ethics
+    - title: “Maithili, langue et littérature” and “Vidyāpati”
+      authors:
+      - Christopher L. Diamond
+      date: 2025
+      journal: Dictionnaire encyclopédique des littératures de l’Inde et de l’Asie du Sud (Classiques Garnier)
+      publisher: Dictionnaire encyclopédique des littératures de l’Inde et de l’Asie du Sud (Classiques Garnier)
+    - title: 'READ Workbench (Part 2): Digital Repatriation, Pedagogy and Transnational Heritage'
+      authors:
+      - Christopher L. Diamond
+      date: 2023
+      journal: The Digital Orientalist
+      publisher: The Digital Orientalist
+    - title: Podcasting as Digital Storytelling in Research and Outreach
+      authors:
+      - Christopher L. Diamond
+      date: 2023
+      journal: The Digital Orientalist
+      publisher: The Digital Orientalist
+    - title: 'READ Workbench (Part 1): An Introduction to a Text and Image Annotation Ecosystem'
+      authors:
+      - Christopher L. Diamond
+      date: 2022
+      journal: The Digital Orientalist
+      publisher: The Digital Orientalist
+    - title: 6 Unis Had Hindi Programs. Soon There Could Be Only 1
+      authors:
+      - Christopher L. Diamond
+      date: 2021
+      journal: The Conversation
+      publisher: The Conversation
+      summary: With T. Brown.
+    - title: Review of Thibaut d’Hubert, In the Shade of the Golden Palace
+      authors:
+      - Christopher L. Diamond
+      date: 2020
+      journal: The Journal of Religion
+      publisher: The Journal of Religion
+    - title: 'The Strange Afterlife of Vidyāpati Ṭhākura (c. 1350–1450 CE): Anthological Manuscripts, Linguistic Confusion, and Religious Appropriation'
+      authors:
+      - Christopher L. Diamond
+      date: 2019
+      journal: 'Manuscript Studies 4 (1): 72–92'
+      publisher: 'Manuscript Studies 4 (1): 72–92'
+    - title: 'Review of Carol Salomon et al., City of Mirrors: Songs of Lālan Sā̃i'
+      authors:
+      - Christopher L. Diamond
+      date: 2019
+      journal: International Journal of Hindu Studies
+      publisher: International Journal of Hindu Studies
+    - title: Review of John Brockington et al., eds., The Other Rāmāyaṇa Women
+      authors:
+      - Christopher L. Diamond
+      date: 2017
+      journal: 'Journal of the Royal Asiatic Society 27 (4): 685–86'
+      publisher: 'Journal of the Royal Asiatic Society 27 (4): 685–86'
+    Grants:
+    - company: Asia-Pacific Innovation Program (APIP) Seed Funding, ANU College of Asia and the Pacific
+      position: 'Singing the Manuscript: A Multilingual Digital Infrastructure for South Asian Text and Performance Traditions'
+      date: 2026
+      summary: Co-Chief Investigator, with Dr Sabeena Shaikh.
+    - company: Asia-Pacific Innovation Program (APIP) Research Grant, ANU
+      position: Textual Digitisation and Repatriation in South Asia
+      date: 2022
+      summary: Chief Investigator, with Dr Stephanie Majcher.
+    Awards:
+    - company: University of Washington
+      position: Dean’s Graduate Medal in the Humanities
+      date: 2019
+    - company: University of Washington
+      position: Alvord Dissertation Fellowship in the Humanities
+      date: 2019
+    - company: University of Washington
+      position: Maurice D. and Lois B. Schwartz Dissertation Writing Fellowship
+      date: 2019
+    - company: United States–India Educational Foundation
+      position: Fulbright-Nehru Student Research Fellowship
+      start_date: 2017
+      end_date: 2018
+    - company: American Institute of Indian Studies
+      position: Summer Language Fellowship (Sanskrit)
+      date: 2016
+    - company: US Department of Education
+      position: Foreign Language and Area Studies (FLAS) Fellowships (Bengali, Persian)
+      start_date: 2012
+      end_date: 2016
+    Teaching:
+    - company: The Australian National University
+      position: Convenor, Hindi-Urdu language program
+      start_date: 2022
+      end_date: present
+      location: Canberra, Australia
+    - company: The Australian National University
+      position: Convenor, South Asian Studies major and Tibetan language minor
+      start_date: 2023
+      end_date: present
+      location: Canberra, Australia
+    - company: The Australian National University
+      position: Hindi-Urdu language, beginner to advanced
+      start_date: 2020
+      end_date: present
+      location: Canberra, Australia
+    - company: The Australian National University
+      position: South and Southeast Asian storytelling; research topics in Asian and Pacific languages
+      start_date: 2022
+      end_date: 2025
+      location: Canberra, Australia
+    - company: University of Washington, University of Puget Sound and University of Wisconsin-Madison
+      position: Hindi language; South Asian literature, the Rāmāyaṇa and religion
+      start_date: 2014
+      end_date: 2019
+      location: USA
+    Supervision:
+    - company: The Australian National University
+      position: Member of PhD supervisory panels in anthropology, linguistics and anthropology of religion
+      start_date: 2022
+      end_date: present
+      location: Canberra, Australia
+    Conferences and Talks:
+    - company: AAS-in-Asia
+      position: '“Between Script and Song: Manuscript Materiality and the Transregional Circulation of Vidyāpati’s Padas across Mithilā, Nepal, and Bengal”'
+      date: 2026
+      location: Lahore, Pakistan
+    - company: Bucknell Humanities Center Summer Institute
+      position: '“From Courtyard to Canon: De-Domesticating Sītā in Nineteenth-Century Maithili Rāmāyaṇas”'
+      date: 2026
+      location: Lewisburg, USA
+    - company: Bucknell Humanities Center, with the Mithila Studies Network
+      position: Co-organiser, “Subjects in Motion” Summer Institute
+      date: 2026
+      location: Lewisburg, USA
+    - company: International Conference on the Early Modern Literatures of North India (ICEMLNI 15)
+      position: '“Sonic Cartographies: Locana Dās’ Rāgataraṅgiṇī and the Construction of Maithili Literary Identity”'
+      date: 2025
+      location: Canberra, Australia
+    - company: The Australian National University; the first held in the Southern Hemisphere
+      position: Conference Chair, 15th International Conference on the Early Modern Literatures of North India (ICEMLNI)
+      date: 2025
+      location: Canberra, Australia
+    - company: The Australian National University
+      position: Convenor, Old Hindi Reading Workshop (“Braj Camp”)
+      date: 2025
+      location: Canberra, Australia
+    - company: India Update, ANU
+      position: Organiser, “Translating South Asia with Daisy Rockwell”
+      date: 2024
+      location: Canberra, Australia
+    - company: Annual Conference on South Asia
+      position: “Vidyāpati, Caṇḍīdās, and the Construction of Gauḍīya Vaiṣṇava Lyrical Memory”
+      date: 2023
+      location: Madison, USA
+    - company: Annual Conference on South Asia
+      position: '“Reimagining Repatriation: Decolonising and Digitising Maithili Manuscript Heritage across the India-Nepal Border”'
+      date: 2023
+      location: Madison, USA
+    - company: The Australian National University
+      position: 'Organiser, “Defying Ethno-Nationalism: Multilingualism and Creativity in Asia”'
+      date: 2023
+      location: Canberra, Australia
+    - company: Annual Conference on South Asia
+      position: Panel convenor, “Digital Repatriation in South Asia”
+      date: 2023
+      location: Madison, USA
+    - company: Life in Mithila seminar series, Mithila Study Group (invited)
+      position: “Masculine Ethics, Geography, and Maithil Identity in the Works of Vidyāpati”
+      date: 2022
+      location: Online
+    - company: Annual Conference on South Asia
+      position: '“A Torrent of Songs: Locana Das’ Rāgataraṅgiṇī, the Darbhanga Raj, and the Making of the Maithili Tradition”'
+      date: 2022
+      location: Madison, USA
+    - company: International Conference on the Early Modern Literatures of North India (ICEMLNI 14)
+      position: “Poetic Villains and the Making of Maithil Kings in Vidyāpati’s Padāvalī”
+      date: 2022
+      location: Osaka, Japan
+    - company: Annual Conference on South Asia
+      position: Symposium convenor, “Critical Contours of Maithili Studies”
+      date: 2022
+      location: Madison, USA
+    - company: International Early Hindi Reading Workshop, University of Oxford (invited)
+      position: Session leader, Maithili and Vidyāpati
+      date: 2021
+      location: Online
+    - company: India Update, ANU (invited)
+      position: Language and culture update
+      date: 2021
+      location: Canberra, Australia
+    - company: Annual Conference on South Asia
+      position: '“The Songs of Our Forefathers: Maithili Literary Cosmopolitanism amongst the Mallas of the Kathmandu Valley”'
+      date: 2021
+      location: Madison, USA
+    - company: Annual Conference on South Asia
+      position: 'Panel convenor, “The ‘Indescribable Country’: Historical and Contemporary Narratives of Maithili Identity”'
+      date: 2021
+      location: Madison, USA
+    - company: Annual Conference on South Asia
+      position: '“Singing the Archives: Popular Maithili Music and Film in Reading Vidyāpati’s Lyric Poetry”'
+      date: 2019
+      location: Madison, USA
+    - company: Association for Asian Studies Annual Conference
+      position: '“The Hills are Alive with the Sound of Padas: Vidyāpati’s Lyric Poetry between Mithila and the Kathmandu Valley”'
+      date: 2019
+      location: Denver, USA
+    - company: Association for Asian Studies Annual Conference
+      position: 'Panel convenor, “Songs, Stories, and Kirtan: Towards a Consideration of an Eastern Indian Literary Landscape”'
+      date: 2019
+      location: Denver, USA
+    - company: Early Modern Literary Cultures workshop, University of British Columbia (invited)
+      position: '“God Serves the Poet: Vidyāpati as a Popular Devotional Saint”'
+      date: 2018
+      location: Vancouver, Canada
+    - company: American Center (invited)
+      position: '“Inventing the Vidyāpati Tradition: Lyric Poetry and Memorialization in Maithili and Bengali Literatures”'
+      date: 2018
+      location: Kolkata, India
+    - company: Annual Conference on South Asia
+      position: '“Ādi-Bhakta to Modern Man: Bengali Transformations of Vidyāpati (17th–20th centuries)”'
+      date: 2018
+      location: Madison, USA
+    - company: European Conference on South Asian Studies
+      position: '“Pragmatics and Ideals: Masculine-Warrior Ethics and Memory in Three Tellings of the Hammīra Narrative”'
+      date: 2018
+      location: Paris, France
+    - company: International Conference on the Early Modern Literatures of North India (ICEMLNI 13)
+      position: “Where Did Devī Go? The Popular-Courtly Divide in Vidyāpati’s Maithili Padas”
+      date: 2018
+      location: Warsaw, Poland
+    - company: South and Central Asia Fulbright Conference
+      position: “Will the Real Vidyāpati Please Stand Up! Literary Appropriation and Vernacular Identity”
+      date: 2018
+      location: New Delhi, India
+    - company: Memory Construction and Emotion in India, University of Washington and Ghent University
+      position: '“The Hammīra Ideal: Memory and Framing in Vidyāpati’s Puruṣaparīkṣā and ʿIsāmī’s Futūḥ al-Salāṭīn”'
+      date: 2017
+      location: Seattle, USA
+    - company: Middle Bengali Workshop, Sapientia Hungarian University of Transylvania (invited)
+      position: Session leader, Vidyāpati’s padas in the Rāgataraṅgiṇī
+      date: 2017
+      location: Romania
+    - company: Asian Development Research Institute (invited)
+      position: '“At the Margins in the Centre: Maithili Identity and Literature in the Hindi Heartland”'
+      date: 2017
+      location: Patna, India
+    - company: Annual Conference on South Asia
+      position: '“Mother India, Mother Mithila: Mourning the Nation, Celebrating the Motherland in the Mithilānāṭaka”'
+      date: 2016
+      location: Madison, USA
+    - company: South Asia Conference of the Pacific Northwest
+      position: “Negotiations of the Classical, Vernacular, and Popular in Maithili Drama”
+      date: 2015
+      location: Vancouver, Canada
+    - company: Annual Conference on South Asia
+      position: “Negotiations of the Classical, Vernacular, and Popular in Maithili Drama”
+      date: 2014
+      location: Madison, USA
+    - company: Texas Asia Conference
+      position: '“City of the Turks: Urban Encounters in Vidyāpati’s Kīrttilatā” [Part II]'
+      date: 2013
+      location: Austin, USA
+    - company: Western Conference of the Association for Asian Studies
+      position: '“City of the Turks: Jaunpur as Remembered by a Maithili Poet” [Part I]'
+      date: 2013
+      location: Ogden, USA
+    Service:
+    - company: Journal of the Society for Asian Humanities
+      position: Editorial board member (South Asia)
+      start_date: 2026
+      end_date: 2028
+    - company: House Standing Committee on Education, Parliament of Australia
+      position: Witness, Inquiry into Building Asia Capability in Australia
+      date: 2026
+      location: Canberra, Australia
+    - company: University of Warsaw
+      position: Peer reviewer, Festschrift for Prof. Danuta Stasik
+      date: 2026
+      location: Warsaw, Poland
+    - company: ANUBhasha
+      position: 'Host, The ANUBhasha Podcast: Digital Repatriation in South Asia'
+      date: 2023
+      location: Online
+    - company: Mithila Studies Network
+      position: Co-founder and co-chair
+      start_date: 2022
+      end_date: present
+    - company: ANUBhasha collective
+      position: Co-founder
+      start_date: 2021
+      end_date: present
+      location: Canberra, Australia
+    - company: Jawaharlal Nehru University
+      position: External examiner, PhD in History
+      date: 2021
+      location: New Delhi, India
+    - company: Scholars in Australia, South Asia, Europe and North America
+      position: Convenor, international Old Maithili–Brajabuli reading group
+      date: 2021
+      location: Online
+    - company: Australian Federal Police
+      position: Language and culture consultant
+      date: 2021
+      location: Canberra, Australia
+    - company: Canberra Celebration of Languages
+      position: Organiser, South Asian languages panel
+      date: 2021
+      location: Canberra, Australia
+    - company: ACT Health
+      position: Hindi translation of bushfire safety materials
+      date: 2020
+      location: Canberra, Australia
+    Memberships:
     - bullet: Asian Studies Association of Australia (ASAA)
     - bullet: South Asian Studies Association of Australia (SASAA)
+    - bullet: Association for Asian Studies (AAS)
+    - bullet: European Association for South Asian Studies (EASAS)
