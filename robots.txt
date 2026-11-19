@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://christopher-diamond.github.io/christopher-diamond-site/sitemap.xml
+Sitemap: https://christopher-diamond.com/sitemap.xml
